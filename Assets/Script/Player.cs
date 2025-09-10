@@ -59,7 +59,18 @@ public class Player : MonoBehaviour
 
             animator.SetBool("walk", true);
         }
+        else if (Input.GetAxisRaw("Vertical") < 0)
+        {
+            moveVelocity = Vector3.down;
 
+            animator.SetBool("walk", true);
+        }
+        else if (Input.GetAxisRaw("Vertical") > 0)
+        {
+            moveVelocity = Vector3.up;
+
+            animator.SetBool("walk", true);
+        }
         transform.position += moveVelocity * movePower * Time.deltaTime;
     }
 
