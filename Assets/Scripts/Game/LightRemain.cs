@@ -25,15 +25,15 @@ public class LightRemain : MonoBehaviour
     
     [Tooltip("손전등 사용시 조명 강도")]
     [Range(0f, 10f)]
-    public float flashlightIntensity = 3f;
+    public float flashlightIntensity = 1f;
     
     [Tooltip("기본 조명 범위")]
     [Range(0f, 10f)]
-    public float defaultLightRadius = 2f;
+    public float defaultLightRadius = 3f;
     
     [Tooltip("손전등 사용시 조명 범위")]
     [Range(0f, 20f)]
-    public float flashlightRadius = 5f;
+    public float flashlightRadius = 3f;
     
     [Header("🔗 연결")]
     [Tooltip("아이템 선택 시스템")]
@@ -84,8 +84,8 @@ public class LightRemain : MonoBehaviour
                     // Light2D가 없으면 자동으로 추가
                     playerLight = player.AddComponent<Light2D>();
                     playerLight.lightType = Light2D.LightType.Point;
-                    playerLight.intensity = defaultLightIntensity;
-                    playerLight.pointLightOuterRadius = defaultLightRadius;
+                    playerLight.intensity = 1f;
+                    playerLight.pointLightOuterRadius = 3f;
                     playerLight.color = Color.white;
                     Debug.Log("🔦 플레이어에 Light2D 자동 추가됨!");
                 }
