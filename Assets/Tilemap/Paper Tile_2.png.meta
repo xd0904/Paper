@@ -1,22 +1,19 @@
 fileFormatVersion: 2
-guid: 73abf7eb5c54f7f4e9a1a90d6a27f8f0
+guid: a408c81289f42194fbf30f85218b4017
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2345339017943878051
-    second: PaperTile_1_0
+      213: 8937463060644868287
+    second: Paper Tile_2_0
   - first:
-      213: 6775573209334319150
-    second: PaperTile_1_1
+      213: -9160179405474343344
+    second: Paper Tile_2_1
   - first:
-      213: 4451172730910122877
-    second: PaperTile_1_2
+      213: -5538227437743083156
+    second: Paper Tile_2_2
   - first:
-      213: 7181879898684437467
-    second: PaperTile_1_3
-  - first:
-      213: 8137807890186934734
-    second: PaperTile_1_4
+      213: 3972063576227087964
+    second: Paper Tile_2_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -63,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 2048
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -112,221 +109,221 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PaperTile_1_0
+      name: Paper Tile_2_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 18432
-        width: 2048
-        height: 2048
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 449e1ea146e26544fb313f10f949c1bd
-      internalID: 1055391676
+      spriteID: fb0b9ea0d4f380c70800000000000000
+      internalID: 8937463060644868287
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PaperTile_1_1
+      name: Paper Tile_2_1
       rect:
         serializedVersion: 2
         x: 0
-        y: 16384
-        width: 2048
-        height: 2048
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: efd1c48d11389a54ba9aa6050dc1d757
-      internalID: 1297991152
+      spriteID: 0565ad90d5180e080800000000000000
+      internalID: -9160179405474343344
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PaperTile_1_2
+      name: Paper Tile_2_2
       rect:
         serializedVersion: 2
         x: 0
-        y: 14336
-        width: 2048
-        height: 2048
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 669a495785a16fb43a4a3be2d11bb06d
-      internalID: -762183132
+      spriteID: c617008fc734423b0800000000000000
+      internalID: -5538227437743083156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PaperTile_1_3
+      name: Paper Tile_2_3
       rect:
         serializedVersion: 2
         x: 0
-        y: 12288
-        width: 2048
-        height: 2048
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 29cd7631ed326aa4f99e0bcc21ecf773
-      internalID: -859580179
+      spriteID: c56884617ca9f1730800000000000000
+      internalID: 3972063576227087964
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PaperTile_1_4
+      name: Paper Tile_2_4
       rect:
         serializedVersion: 2
         x: 0
-        y: 10240
-        width: 2048
-        height: 2048
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bef82d009b93b08499aad8f72cd2220c
-      internalID: -1950549799
+      spriteID: 85940c6675d12e748b4c2f16cc145582
+      internalID: 1636894931
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PaperTile_1_5
+      name: Paper Tile_2_5
       rect:
         serializedVersion: 2
         x: 0
-        y: 8208
-        width: 2048
-        height: 2048
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1d2ebf9832676c4b9ec7cbb859927d3
-      internalID: -493151551
+      spriteID: d09f01b4bc287fc48a24e729ca238f58
+      internalID: 1755015686
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PaperTile_1_6
+      name: Paper Tile_2_6
       rect:
         serializedVersion: 2
         x: 0
-        y: 6144
-        width: 2048
-        height: 2048
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b6e37a1ea469b34da1ecef08e87eea3
-      internalID: 2033682183
+      spriteID: 22a72692eefb416469d089fe28b9e641
+      internalID: -184656856
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PaperTile_1_7
+      name: Paper Tile_2_7
       rect:
         serializedVersion: 2
         x: 0
-        y: 4096
-        width: 2048
-        height: 2048
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46aec60c2d759f343883721e34da3ffe
-      internalID: -1866510614
+      spriteID: 4a5ad2da84a813d44bfd872bf73059f1
+      internalID: -248801657
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PaperTile_1_8
+      name: Paper Tile_2_8
       rect:
         serializedVersion: 2
         x: 0
-        y: 2048
-        width: 2048
-        height: 2048
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6fb8828e25c11cb42ac3b4f983bff0c9
-      internalID: -1534654914
+      spriteID: 70233d9041479104189b0223f0f3afee
+      internalID: -1460846955
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PaperTile_1_9
+      name: Paper Tile_2_9
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 2048
-        height: 2046
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29401c1c0a5b6604dbf7fabd18da0e4d
-      internalID: 1117901810
+      spriteID: a4c782b6149cbc1489294ee3e32c33b1
+      internalID: 467066381
       vertices: []
       indices: 
       edges: []
@@ -335,7 +332,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: edc974f799977c048b5ec3ec9539bbd0
+    spriteID: 9caafcd42b03501468696612fd7143d5
     internalID: 0
     vertices: []
     indices: 
@@ -345,16 +342,16 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      PaperTile_1_0: 1055391676
-      PaperTile_1_1: 1297991152
-      PaperTile_1_2: -762183132
-      PaperTile_1_3: -859580179
-      PaperTile_1_4: -1950549799
-      PaperTile_1_5: -493151551
-      PaperTile_1_6: 2033682183
-      PaperTile_1_7: -1866510614
-      PaperTile_1_8: -1534654914
-      PaperTile_1_9: 1117901810
+      Paper Tile_2_0: 8937463060644868287
+      Paper Tile_2_1: -9160179405474343344
+      Paper Tile_2_2: -5538227437743083156
+      Paper Tile_2_3: 3972063576227087964
+      Paper Tile_2_4: 1636894931
+      Paper Tile_2_5: 1755015686
+      Paper Tile_2_6: -184656856
+      Paper Tile_2_7: -248801657
+      Paper Tile_2_8: -1460846955
+      Paper Tile_2_9: 467066381
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
